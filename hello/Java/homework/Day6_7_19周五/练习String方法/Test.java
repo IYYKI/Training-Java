@@ -1,4 +1,5 @@
-public class StTest {
+package Day6_7_19周五.练习String方法;
+public class Test {
     public static void main(String[] args) {
 //      Scanner sc = new Scanner(System.in);
         String str = "HellOWorlD!";

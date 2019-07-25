@@ -1,3 +1,9 @@
+
+
+
+
+
+
 一、String类
 String类在java.lang包中，java使用String类创建一个字符串变量，字符串变量属于对象。java把String类声明的final类，不能有类。String类对象创建后不能修改，由0或多个字符组成，包含在一对双引号之间。
 二、String类对象的创建
