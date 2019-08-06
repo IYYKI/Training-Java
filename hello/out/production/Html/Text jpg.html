@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Document</title>
+    <script>
+    var arr=new Array();
+    arr[0]="1.gif";    //这里放图片路径
+    arr[1]="2.gif";
+    arr[2]="3.gif";
+    arr[3]="4.gif";
+    var i=0;
+    function image()
+    {
+    var ima=document.getElementById("image");
+    ima.src=arr[i];
+    i++;
+    if(i==3)
+    i=0
+    setTimeout("image()",1000) //一秒钟调用一次
+    }
+    </script>
+    </head>
+</head>
+<body onload="image()">
+</body>
+<img id="image" src="4.gif" width="280" height="280"/>
+<script>
+    var p = new Array();
+    p[0]="11.jpg";
+    p[1]="12.jpg";
+    p[2]="13.jpg";
+    p[3]="14.jpg";
+    var i = 0;
+    function a() {
+        var imc=document.getElementById("a1");
+        imc.src=a[o];
+        o++;
+        if (a==3)
+        i=0;
+        setTimeout(a(),1000)
+    }
+</script>
+<body onload="a1()" id="a">
+<img id="a1" src="12.jpg" width="65" height="65">
+
+
+
+
+
+
+</body>
+</html>

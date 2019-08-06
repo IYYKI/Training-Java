@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.Scanner;
 
 public class ArrayTest {
-    private static int[] a = new int[10];
+    private static int[] a = new int[100];
 
     public static void test(int[] a, Scanner s) {
 
@@ -20,11 +20,11 @@ public class ArrayTest {
                 for (int i = 0; i < count; i++) {
                     if (i > 0) {
                         if (a[i - 1] == it) {
-                            throw new DuplicateValueException();
+                            throw new FallException();
                         }
                     }
                 }
-            } catch (DuplicateValueException e) {
+            } catch (FallException e) {
                 e.printStackTrace();
                 count--;
             }
@@ -51,7 +51,7 @@ public class ArrayTest {
         int count = 0;
         for (int i = 0; i < a.length; i++) {
             if (a[i] == q) {
-                System.out.println("有" + a[i] + "  在第" + (i+1)  + "个位置上");
+                System.out.println( +a[i] + "在第" + (i+1)+ "个位置上");
                 count++;
             }
         }
@@ -65,10 +65,10 @@ public class ArrayTest {
 
     }
 
-    public static class DuplicateValueException extends RuntimeException {
+    public static class FallException extends RuntimeException {
         private static final long serialVersionUID = 1L;
 
-        public DuplicateValueException() {
+        public FallException() {
             super("输入数字与数组元素重复,再次输入");
         }
     }
@@ -77,7 +77,7 @@ public class ArrayTest {
         private static final long serialVersionUID = 1L;
 
         public NotFoundException() {
-            super("找不到，么得");
+            super("找不到。");
         }
     }
 

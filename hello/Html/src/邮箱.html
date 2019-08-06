@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>正则表达式验证</title>
+    <!-- TemplateEndEditable -->
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+    <script language="javascript">
+        function check(s) {      // 验证身份证号码格式
+            var str = s;
+            var c = /^\d{15}$|^\d{18}$|^\d{17}[xX]$/;
+//alert(c.test(str));  
+            if (c.test(str) == true) {
+                document.getElementById('notice').innerHTML = "输入正确";
+            } else {
+                document.getElementById('notice').innerHTML = "输入错误";
+                return false;
+            }
+        }
+        </script>
+</head>
+</html>

@@ -6,7 +6,7 @@ class MyCircle implements Area{
     MyCircle(double radius){
         this.radius=radius;
     }
-    public double calculateArea(){
+    public double ShapeArea(){
         return PI*radius*radius;
     }
 }

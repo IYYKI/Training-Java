@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Document</title>
+<style>
+    #biaoge {
+        width: 100%;
+        background-color: burlywood;
+        border-collapse: collapse;
+    }
+
+    #biaoge,
+    #biaoge tr td {
+        border: 2px solid red;
+        text-align: center;
+    }
+</style>
+</head>
+
+<body>
+<input type="button" value="添加一行" onclick="add()">
+<input type="button" value="删除全部" onclick="delall()"><br>
+<table id="biaoge">
+    <tr>
+        <th>编号</th>
+        <th>姓名</th>
+        <th>性别</th>
+        <th>年龄</th>
+        <th>选项</th>
+    </tr>
+</table>
+
+</body>
+<script>
+    var count = 1;
+    //添加
+    function add() {
+        var table = document.getElementById("biaoge");
+        var tr = document.createElement("tr");
+        table.appendChild(tr);
+        var th = document.getElementsByTagName("th");
+        for (var i = 0; i < th.length; i++) {
+            var td = document.createElement("td");
+            tr.appendChild(td);
+            if (i == 0) {
+                td.innerHTML = "0" + count;
+            } else if (i == 1) {
+                td.innerHTML = "某某" + count;
+            } else if (i == 2) {
+                td.innerHTML = "男";
+            } else if (i == 3) {
+                td.innerHTML = 18 + count;
+            } else {
+                td.innerHTML = "<input type='button' value='修改' onclick='modify(this)'>" +
+                    "&nbsp;<input type='button' value='删除' onclick='del(this)'>" +
+                    "&nbsp;<input type='button' value='完成' onclick='ok(this)'>";
+            }
+        }
+        count++;
+    }
+</script>
+<script>
+    //删除
+    function del(obj) {
+        var tr = obj.parentNode.parentNode;
+        var table2 = document.getElementById("biaoge");
+        table2.deleteRow(tr.rowIndex);
+
+    }
+    //全部删除
+    function delall() {
+        var table = document.getElementById("biaoge");
+        while (table.rows.length > 1) {
+            table.deleteRow(-1);
+        }
+
+    }
+
+</script>
+<script>
+
+    //修改
+    function modify(obj) {
+        var nowRow = obj.parentNode.parentNode;
+        var cell = nowRow.cells;
+        var th = document.getElementsByTagName("th");
+        var change = document.getElementsByName("change");
+        var a1 = new Array();
+        for (i = 0; i < th.length - 1; i++) {
+            if (cell[i].innerHTML == document.getElementsByName("change")) {
+                break;
+            } else {
+                a1[i] = cell[i].innerHTML;
+                cell[i].innerHTML = "<input type='text' name='change'>";
+                change[i].value = a1[i];
+            }
+
+        }
+
+        number = nowRow.rowIndex;
+    }
+    //完成修改
+    function ok(obj) {
+        var table = document.getElementById("biaoge");
+        var cell =table.rows[number].cells;
+        var change = document.getElementsByName("change");
+        for (var i = change.length-1;i>=0; i--) {
+            cell[i].innerHTML=change[i].value;
+        }
+
+    }
+</script>
+
+</html>

@@ -5,7 +5,7 @@ package Day9_7_24周三.二维几何体;
  * 其中定义周长和面积方法，和形体颜色属性，
  * 再编写三角形类继承 GeometricObject 类，
  * 有三个边长属性，编写矩形类继承GeometricObject 类，有长和宽属性。
- **/
+ */
 public abstract class GeometricObject {
     private  String color;
     private String shenti;

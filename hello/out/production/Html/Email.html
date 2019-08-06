@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>邮箱验证</title>
+</head>
+<body>
+<input id="i1" type="text" onkeypress="test1()">
+<span id="s" style="color:green"></span>
+</body>
+<script>
+    function test1(){
+        var reg=/^[a-zA-Z0-9_-]+@[a-zA-Z0-9_-]+(\.[a-zA-Z0-9_-]+)+$/;
+        var sp = document.getElementById("s");
+        var i1 = document.getElementById("i1");
+        var bool = reg.test(i1.value);
+        if(bool==true){
+            sp.innerHTML="v"+"绿的（手动color）"
+        }else{
+            sp.innerHTML="X"+" "+"红的（手动color）"
+        }
+    }
+</script>
+</html>

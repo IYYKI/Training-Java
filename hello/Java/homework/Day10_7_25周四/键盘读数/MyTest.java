@@ -10,15 +10,15 @@ class MyTest {
         System.out.print("请输入: ");
         System.out.println();
 
-        // 字节流
+        // 字节流//
         InputStream inputStream = System.in;
-        // 转换流
+        // 转换流//
         InputStreamReader inputStreamReader = new InputStreamReader(inputStream);
-        // 缓冲流
+        //缓冲//
         BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
-        // 读一行
+        // 读一行//
         String result = bufferedReader.readLine();
-        // 去空格
+        // 去空格//
         String trim = result.trim();
         // 如果读入的是空串，则抛出InvalidInputException异常
         if(trim.isEmpty()) {

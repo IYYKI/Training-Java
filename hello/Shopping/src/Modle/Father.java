@@ -49,7 +49,7 @@ public class Father {
                 System.err.println("么有啊");
             }
         }
-        System.out.println(name + "吃好了");
+        System.out.println("吃好了");
 
     }
 }

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用canvas绘制android机器人</title>
+</head>
+<body>
+
+<canvas id="myCanvas"></canvas>
+
+<script>
+
+    var c = document.getElementById("myCanvas");
+    var ctx = c.getContext("2d");
+
+    var W = window.innerWidth-200;
+    var H = window.innerHeight;
+    c.width = W;
+    c.height = H;
+
+    drawRobot();
+
+    function drawRobot(){
+        var color = '#a4ca39';
+        ctx.save();
+        ctx.fillStyle = color;
+
+// 头部
+        drawHead(140,100,92);
+
+        function drawHead(startX,startY,radius){
+            ctx.beginPath();
+            ctx.arc(startX,startY,radius,0,Math.PI,true);
+            ctx.fill();
+        }
+
+//眼睛
+        drawEye(95,60,8);
+        drawEye(174,60,8);
+
+        function drawEye(startX,startY,radius){
+            ctx.fillStyle = "#ffffff";
+            ctx.beginPath();
+            ctx.arc(startX,startY,radius,0,2*Math.PI);
+            ctx.fill();
+        }
+
+//触角
+        drawWireLeft(72,-5,5,20,24);
+        drawWireRight(200,-5,5,20,24);
+
+        function drawWireLeft(startX,startY,lineWidth,lineHeight,endY){
+            ctx.strokeStyle=color;
+            ctx.beginPath();
+            ctx.moveTo(startX,startY);
+            ctx.lineTo(startX+lineHeight,endY);
+            ctx.lineWidth = lineWidth;
+            ctx.stroke();
+        }
+
+        function drawWireRight(startX,startY,lineWidth,lineHeight,endY){
+            ctx.strokeStyle=color;
+            ctx.beginPath();
+            ctx.moveTo(startX,startY);
+            ctx.lineTo(startX-lineHeight,endY);
+            ctx.lineWidth = lineWidth;
+            ctx.stroke();
+        }
+
+//身体
+        drawBody(48,107,232,255,20);
+
+        function drawBody(startX,startY,endX,endY,radius){
+            ctx.fillStyle=color;
+            ctx.beginPath();
+            ctx.moveTo(startX,startY);
+            ctx.lineTo(endX,startY);
+            ctx.lineTo(endX,endY-radius);
+            ctx.arcTo(endX,endY,endX-radius,endY,radius);
+            ctx.lineTo(startX+radius,endY);
+            ctx.arcTo(startX,endY,startX,endY-radius,radius);
+            ctx.lineTo(startX,startY);
+            ctx.fill();
+            ctx.closePath();
+        }
+
+//腿
+        drawLeg(82,255,300,20);
+        drawLeg(152,255,300,20);
+
+        function drawLeg(startX,startY,endY,radius){
+            var endX = startX + radius*2;
+
+            ctx.fillStyle=color;
+            ctx.fillRect(startX,startY,radius*2,endY-startY);
+            ctx.beginPath();
+            ctx.arc(endX-radius,endY,radius,0,Math.PI);
+            ctx.fill();
+        }
+
+//手臂
+        drawHand(20,110,210);
+        drawHand(260,110,210);
+
+        function drawHand(startX,startY,endY){
+            ctx.strokeStyle=color;
+            ctx.beginPath();
+            ctx.moveTo(startX,startY);
+            ctx.lineTo(startX,endY);
+            ctx.lineCap = "round";
+            ctx.lineWidth = 40;
+            ctx.stroke();
+        }
+
+        ctx.restore();
+    }
+</script>
+</body>
+</html>

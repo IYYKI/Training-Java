@@ -8,7 +8,7 @@ class MyRectangle implements Area{
         this.width=width;
         this.height=height;
     }
-    public double calculateArea(){
+    public double ShapeArea(){
         return width*height;
     }
 }

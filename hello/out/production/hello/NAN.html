@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        a{
+            text-decoration: none;
+        }
+        body{
+            margin:auto;
+            width:80%;
+            height: 1200px;
+            text-align: center;
+        }
+        div{
+            width:100%;
+        }
+        table{
+            width:100%;
+        }
+        #head1{
+            background-color:#FFD705;
+            height:70px;
+        }
+        #body1{
+            height:800px;
+            background-color: beige;
+            border:1px solid black;
+        }
+        #headleft{
+            float:left;
+            width:30%
+        }
+        #headright{
+            float:left;
+            width:60%;
+            height:70px;
+            margin-top: -30px;
+        }
+        #input1{
+            clear: both;
+            transform: translate(-380px,-50px);
+            width:270px;
+            height:24px;
+            background-color: #FFD705;
+            border:none;
+        }
+        #input2{
+            transform: translate(25px,-82px);
+            width:100px;
+            height: 35px;
+            border:none;
+            background-color:transparent;
+            color:white;
+            font-size: 14pt;
+            border-radius: 0 15px 15px 0;
+        }
+        .shop{
+            width:23%;
+            height: 317px;
+            margin:10px;
+            border:1px solid black;
+            background-color: #FFFFFF;
+            float:left;
+        }
+        .sp{
+            width:100%;
+            height:67%;
+        }
+        .price{
+            border:1px solid black;
+            width:100%;
+        }
+        #cart1{
+            text-align: center;
+            border:1px solid black;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <div id="head1">
+        <div id="headleft">< img src="img/ceiling-logo2.png" style="margin-top: 10px;"></div>
+        <div id="headright">< img src="img/header.png"><input type="text" id="input1"><input type="submit" value="搜索" id="input2"></div>
+    </div>
+    <div id="body1">
+        <br/><span onclick="f1()">我的购物车</span>&nbsp;(<span style="color:red;" id="number" >0</span>)
+        <br/><br/><br/><br/>
+        <div class="shop" >
+            < img class="sp" src="img/1cde.jpg">
+            <table class="price" >class="price"
+                <tr>
+                    <td>A米汉堡</td>
+                    <td></td>
+                    <td>16元/份</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>月销8148单</td>
+                </tr>
+                <tr>
+                    <td>起送￥10</td>
+                    <td>免费配送</td>
+                    <td>45分钟</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td><input type="button" value="加入购物车" onclick="add(this)"></td>
+                </tr>
+            </table>
+        </div>
+        <div class="shop" >
+            <img class="sp" src="img/3a31d.jpg">
+            <table class="price" >
+                <tr>
+                    <td>杨记小厨</td>
+                    <td></td>
+                    <td>17.5元/份</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td></td>
+                    <td>月销4639单</td>
+                </tr

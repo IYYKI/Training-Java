@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>垃圾图片轮换</title>
+</head>
+<style>
+    #x {
+        background: aliceblue;
+        text-align: center;
+    }
+
+    span {
+        display: block;
+        float: contour;
+        margin: 5px 5px 5px 5px;
+        padding: 10px 20px 10px 20px;
+        background-color: lightgray;
+        text-align: center;
+    }
+</style>
+<script>
+    //数字增加
+    function ee(index) {
+        var num = document.getElementById("x");
+        num.innerHTML = index + 1;
+    }
+    //图片数组
+    var a = new Array();
+    a[0] = "1.gif";
+    a[1] = "2.gif";
+    a[2] = "3.gif";
+    a[3] = "4.gif";
+    a[4] = "5.gif";
+    var i = 0;
+    //主函数
+    function N() {
+        var ima = document.getElementById("pics");
+        ima.src = a[i];
+        ee(i);
+        i++;
+        setTimeout("N()", 1000);
+        if  (i==4)
+            i = 0;
+    }
+
+</script>
+
+<body onload="N()">
+<div id="main">
+    <div id=apDiv1 align="center"> <img src="2.jpg" alt="" id="pics" width="300px" height="250px"></div>
+</div>
+<span id="x" style="font-size: 50px">4</span>
+</body>
+
+</html>

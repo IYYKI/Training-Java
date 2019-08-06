@@ -1,15 +1,80 @@
 package Day9_7_24周三.学生科目及成绩;
 
+/**
+ * 4.
+ * 设计一个学生类，
+ * 属性包括学号、
+ * 姓名及所学的数学、
+ * 英语及程序设计3门课程；
+ * 课程都有名字和成绩；
+ * 在学生类中完成方法输出学生的姓名及3门课程的总成绩。
+ **/
 public class Student {
-    public static void main (String [] args){
-        ClassRoom student = new ClassRoom(1,"张三",94,60,72);
-        System.out.println("学号： "+student.studentNum);
-        System.out.println("姓名： "+student.studentName);
-        System.out.println("数学成绩为： "+student.math);
-        System.out.println("英语成绩为： "+student.english);
-        System.out.println("程序与设计成绩为： "+student.programdesign);
-        System.out.println("学生总成绩为： "+student.TotalGrade());
+    private static class Courses {
+        private String name;
+        private double results;
 
+        public String getName() {
+            return name;
+        }
 
+        public void setName(String name) {
+            this.name = name;
+        }
+
+        public double getResults() {
+            return results;
+        }
+
+        public void setResults(double results) {
+            this.results = results;
+        }
+
+        public Courses(String name, double results) {
+            this.name = name;
+            this.results = results;
+
+        }
     }
+
+
+
+    private String name;
+    private int number;
+    private Courses[] courses;
+
+    public String getName() {
+        return name; }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getNumber() {
+        return number;
+    }
+
+    public void setNumber(int number) {
+        this.number = number;
+    }
+
+    public Student(String name, Courses...args) {
+        courses = args;
+        double sum = 0;
+        for (int i = 0; i < courses.length; i++) {
+            sum += courses[i].getResults();
+            System.out.println(courses[i].getName() + courses[i].getResults());
+        }
+        System.out.println(sum + " " + name);
+    }
+
+
+
+    public static void main(String[] args) {
+        Courses english = new Courses("English", 66);
+        Courses math = new Courses("Math", 66);
+        Courses programdesign = new Courses("programdesign", 66);
+        Student student = new Student("吴亦凡", english, math, programdesign);
+    }
+
 }
