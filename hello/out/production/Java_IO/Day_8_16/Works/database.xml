@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="1">
+        <name>jdbc:mysql://localhost:3306/YYK</name>
+        <sex>root</sex>
+        <age>123456</age>
+    </student>
+    <student id="2">
+        <name>jdbc:mysql://localhost:3306/YYK</name>
+        <sex>root</sex>
+        <age>123456</age>
+    </student>
+    <student id="3">
+        <name>a3</name>
+        <sex>女</sex>
+        <age>13</age>
+    </student>
+    <student id="45">
+        <name>sdgf</name>
+        <sex>男</sex>
+        <age>20</age>
+    </student>
+</students>

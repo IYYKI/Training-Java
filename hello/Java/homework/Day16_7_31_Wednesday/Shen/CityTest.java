@@ -6,11 +6,11 @@ public class CityTest {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         City city = new City();
-        System.out.println("è¯·è¾“å…¥: ");
+        System.out.println("ÇëÊäÈë: ");
         String s1 = s.next();
         city.getCity(s1);
 
-        System.out.println("è¯·è¾“å…¥: ");
+        System.out.println("ÇëÊäÈë: ");
         String s2 = s.next();
         city.getCity(s2);
     }
