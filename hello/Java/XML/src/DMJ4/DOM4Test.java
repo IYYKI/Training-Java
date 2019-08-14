@@ -73,7 +73,7 @@ public class DOM4Test {
         return arrayList;
     }
 
-    // ¸üÐÂ
+    // æ›´æ–°
     public static void retrunData(Connection connection, ArrayList<Pet> arrayList)
             throws ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException {
         String sql = "insert into pet_shop(id,name,color, price,species)values(?,?,?,?,?)";
@@ -90,7 +90,7 @@ public class DOM4Test {
 
     }
 
-    // ²éÑ¯ËùÓÐ
+    // æŸ¥è¯¢æ‰€æœ‰
     public static ArrayList<Pet> getArray(Connection connection)
             throws ClassNotFoundException, InstantiationException, IllegalAccessException, SQLException {
         Class<?> clazz = Class.forName(PET);
@@ -121,7 +121,7 @@ public class DOM4Test {
         return array;
     }
 
-    //Ö÷·½·¨
+    //ä¸»æ–¹æ³•
     public static void main(String[] args) throws ClassNotFoundException, SQLException {
         File file = new File("/Users/yao/IdeaProjects/hello/Java/XML/src/DMJ4/pet.xml");
         if (!file.exists()) {

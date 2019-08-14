@@ -123,7 +123,7 @@ class myPanel extends JPanel {
         //初始化数字数组（用字符串表示）
         String[] num = new String[commandCount + 1];
         for (j = 0; j < num.length; j++) {
-            num[j] = "";
+            num[j] = " ";
         }
 
         //遍历一遍，吧每个数字存进数字数组，每个符号存进符号数组
