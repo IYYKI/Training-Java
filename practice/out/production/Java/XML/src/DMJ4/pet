@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pets>
+    <pet id="1">
+        <name>b</name>
+        <price>33.0</price>
+        <species>dog</species>
+        <color>red</color>
+    </pet>
+    <pet id="2">
+        <name>b</name>
+        <price>33.0</price>
+        <species>dog</species>
+        <color>black</color>
+    </pet>
+    <pet id="3">
+        <name>c</name>
+        <price>96.0</price>
+        <species>dog</species>
+        <color>白色</color>
+    </pet>
+    <pet id="4">
+        <name>d</name>
+        <price>3.0</price>
+        <species>cat</species>
+        <color>紫色</color>
+    </pet>
+    <pet id="5">
+        <name>e</name>
+        <price>8958.0</price>
+        <species>mouse</species>
+        <color>白色</color>
+    </pet>
+    <pet id="6">
+        <name>f</name>
+        <price>63.0</price>
+        <species>cat</species>
+        <color>黄色</color>
+    </pet>
+</pets>
