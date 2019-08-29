@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+    <display-name>servlet_create</display-name>
+    <welcome-file-list>
+        <welcome-file>index.html</welcome-file>
+        <welcome-file>index.htm</welcome-file>
+        <welcome-file>index.jsp</welcome-file>
+        <welcome-file>default.html</welcome-file>
+        <welcome-file>default.htm</welcome-file>
+        <welcome-file>default.jsp</welcome-file>
+    </welcome-file-list>
+
+    <!-- 配置servlet -->
+    <!-- 1.注册servlet -->
+    <!--<servlet>
+        <servlet-name>my</servlet-name>&lt;!&ndash; 名字自定义 &ndash;&gt;
+        <servlet-class>MyServlet.MyServlet</servlet-class>
+    </servlet>
+    &lt;!&ndash; 2.给servlet映射url &ndash;&gt;
+    <servlet-mapping>
+        <servlet-name>my</servlet-name>
+        &lt;!&ndash; 以/开头   http://ip:port/页面路径
+            /=http://localhost:port/servlet_create/
+            /myServlet == http://localhost:port/servlet_create/myServlet
+        &ndash;&gt;
+        <url-pattern>/myServlet</url-pattern>
+    </servlet-mapping>
+
+    &lt;!&ndash; 给第二个servlet配置 &ndash;&gt;
+    <servlet>
+        <servlet-name>sec</servlet-name>
+        <servlet-class>MyServlet.SecondServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>sec</servlet-name>
+        <url-pattern>/sec</url-pattern>
+    </servlet-mapping>
+
+    &lt;!&ndash; 给第三个servlet配置 &ndash;&gt;
+    <servlet>
+        <servlet-name>th</servlet-name>
+        <servlet-class>MyServlet.ThirdServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>th</servlet-name>
+        <url-pattern>/th</url-pattern>
+    </servlet-mapping>-->
+    <servlet>
+        <servlet-name>ren</servlet-name>
+        <servlet-class>Day_8_29WorkTwo.DatabaseAccess</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ren</servlet-name>
+        <url-pattern>/ren</url-pattern>
+    </servlet-mapping>
+</web-app>
+
+
+
+
