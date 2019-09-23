@@ -1,0 +1,85 @@
+/*���ﳵ������ʽ*/
+
+.carTab{
+	width:1000px;
+	text-align:center;
+}
+.toBuy{
+	color:#00f;
+	font-size:20px;
+	font-weight:700;
+}
+.dd{
+	float:right;
+}
+.dd span{
+	color:#f00;
+}
+.dd input{
+	background-color:orange;
+}
+/*��Ҫ������ʽ*/
+body{
+	margin:0;
+	background-color:#eee;
+}
+.main img{
+	width:200px;
+	height:150px;
+	margin-left:25px; 
+	margin-top:10px;
+}
+.food{
+	width:250px;
+	height:300px;
+	margin-top:20px;
+	background-color:#fff;
+}
+.main{
+	width:1000px;
+	height:650px;
+	margin:auto;
+}
+.car{
+	width:1350px;
+	text-align:center;
+	color:blue;
+	font-size:16px;
+	font-weight:700;
+}
+.car span{
+	color:#f00;
+}
+#header{
+	width:1350px;
+	height:60px;
+	background-color:orange;
+}
+.ss span{
+	font-size:16px;
+	color:#fff;
+	margin-left:230px;
+}
+.ss{
+	margin:0;
+	margin-top:10px;
+	margin-left:40px;
+	font-size:10px;
+	color:#666;
+}
+.search{
+	width:423px;
+	height:39px;
+	background-image:url(../img/header.png);
+	background-repeat:no-repeat;/*���ظ�*/
+	background-position:0 -37px;
+	margin-left:300px;
+	margin-top:10px;
+}
+.logo{
+	margin-left:100px;
+	margin-top:10px;
+}
+.fl{
+	float:left;
+}

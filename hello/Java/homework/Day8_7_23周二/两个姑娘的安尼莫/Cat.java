@@ -1,6 +1,6 @@
-package Day8_7_23周二.两个姑娘的安尼莫;
+package homework.Day8_7_23周二.两个姑娘的安尼莫;
 
-public class Cat extends Animal {
+public class Cat extends Animail {
     public  Cat(String name){
         super(name);
     }

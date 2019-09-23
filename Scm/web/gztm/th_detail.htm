@@ -1,0 +1,248 @@
+<html>
+<head>
+<title>提货单详细</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<link href="../css/style.css" rel="stylesheet" type="text/css">
+<script language="javascript" src="../script/common.js"></script>
+<script language="javascript" type="text/javascript">
+	function init() {
+		
+		window.moveTo(0,0);
+		window.resizeTo(screen.width, screen.height);
+	}
+    function choiceSpxx(rowIndex) {
+    	var detailTable = document.getElementById("detailTable");
+    	var length = detailTable.rows.length;
+        var currentSpbm = null;
+    	if (length>2) {
+            currentSpbm = document.mainFrm.spbm[rowIndex].value;
+    	} else {
+            currentSpbm = document.mainFrm.spbm.value;
+    	}
+        var returnValue = window.showModalDialog("../common/spxx.htm", null, "dialogHeight:400px; dialogWidth:600px; help:no; status:no");
+        if (returnValue==null) return;
+        if (length>2) {
+        	document.mainFrm.spbm[rowIndex].value = returnValue[0];
+            document.mainFrm.spmc[rowIndex].value = returnValue[1];
+            document.mainFrm.sptj[rowIndex].value = returnValue[2];
+            document.mainFrm.spzl[rowIndex].value = returnValue[3];
+        } else {
+            document.mainFrm.spbm.value = returnValue[0];
+            document.mainFrm.spmc.value = returnValue[1];
+            document.mainFrm.sptj.value = returnValue[2];
+            document.mainFrm.spzl.value = returnValue[3];
+        }
+    }
+  //添加一行
+	function addItem() {
+		var detailTable = document.getElementById("detailTable");
+		var oRow = detailTable.insertRow(-1);//在表格最后添加一行
+		oRow.align = "center";
+
+		oCell = oRow.insertCell(0);//添加单元格
+		oCell.innerHTML = oRow.rowIndex;
+
+		oCell = oRow.insertCell(1);
+		oCell.innerHTML = "<input type='text' name='spbm' size='10' readonly> <span class='LL'><image src='../images/selectDate.gif' onClick='choiceSpxx(\""+(oRow.rowIndex-1)+"\")'></span>";
+
+		oCell = oRow.insertCell(2);
+		oCell.innerHTML = "<input type='text' name='spmc' size='15' readonly>";
+
+		oCell = oRow.insertCell(3);
+		oCell.innerHTML = "<input type='text' name='ytsl' size='10' value='0'>";
+
+		oCell = oRow.insertCell(4);
+		oCell.innerHTML = "<input type='text' name='sptj' size='10' value='0' >";
+
+		oCell = oRow.insertCell(5);
+		oCell.innerHTML = "<input type='text' name='spzl' size='10' value='0' >";
+
+		oCell = oRow.insertCell(6);
+		oCell.innerHTML = "<input type='text' name='stsl' size='10' value='0'>";
+
+		oCell = oRow.insertCell(7);
+		oCell.innerHTML = "<input type='text' name='spbz' size='15'>";
+
+		oCell = oRow.insertCell(8);
+		oCell.innerHTML = '<image src="../images/delete.gif" class="LL" onclick="delItem('+oRow.rowIndex+')"/>';
+	}
+	//删除行,注意这里的行号全部要重新计算 刷新的
+	function delItem(index) {
+		var detailTable = document.getElementById("detailTable");
+		detailTable.deleteRow(index);
+		var rowNum = detailTable.rows.length;
+		var rowlength = detailTable.rows[0].cells.length;
+		for (i=index; i<rowNum; i++) {
+			detailTable.rows[i].cells[0].innerHTML = i;
+			detailTable.rows[i].cells[rowlength-1].innerHTML = '<image src="../images/delete.gif" class="LL" onclick="delItem('+i+')"/>';
+		}
+	}
+</script>
+</head>
+
+<body onLoad="init()">
+<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td nowrap class="title1">您的位置：工作台面－－提货管理－－提货单详细</td>
+  </tr>
+</table>
+<form action="" name="mainFrm">
+<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="30px" nowrap class="toolbar">&nbsp;</td>
+    <td width="70px" nowrap class="toolbar" onMouseOver="OMO(event)" onMouseOut="OMOU(event)" onClick="document.mainFrm.mx.click()"><img src="../images/add.gif">增加明细</td>
+    <td width="20px" nowrap class="toolbar">|</td>
+    <td width="40px" nowrap class="toolbar" onMouseOver="OMO(event)" onMouseOut="OMOU(event)" onClick="document.mainFrm.bc.click()"><img src="../images/save.gif">保存</td>
+    <td width="20px" nowrap class="toolbar">|</td>
+    <td width="40px" nowrap class="toolbar" onMouseOver="OMO(event)" onMouseOut="OMOU(event)" onClick="document.mainFrm.ts.click()"><img src="../images/send.gif">提审</td>
+    <td width="20px" nowrap class="toolbar">|</td>
+    <td width="40px" nowrap class="toolbar" onMouseOver="OMO(event)" onMouseOut="OMOU(event)" onClick="document.mainFrm.dy.click()"><img src="../images/search.gif">打印</td>
+    <td width="20px" nowrap class="toolbar">|</td>
+    <td width="40px" nowrap class="toolbar" onMouseOver="OMO(event)" onMouseOut="OMOU(event)" onClick="document.mainFrm.cz.click()"><img src="../images/reset.gif">重置</td>
+    <td width="20px" nowrap class="toolbar">|</td>
+    <td width="40px" nowrap class="toolbar" onMouseOver="OMO(event)" onMouseOut="OMOU(event)" onClick="document.mainFrm.gb.click()"><img src="../images/cancel.gif">关闭</td>
+	<td nowrap class="toolbar">&nbsp;</td>
+  </tr>
+</table>
+
+<table id="headTable" width="100%"  border="0" align="center" class="a1">
+  <tr align="justify">
+    <td>提货单号</td>
+    <td><input type="text" value="T000000001" size="15"/>
+      <span class="requred_symbol">*</span></td>
+    <td> 客户编码</td>
+    <td><input type="text" size="15"/>
+      <span class="requred_symbol">*</span></td>
+    <td>客户名称</td>
+    <td><input type="text" size="15"/>
+      <span class="requred_symbol">*</span></td>
+    <td>联系人</td>
+    <td><input name="textfield" type="text" size="15">
+        <span class="requred_symbol">*</span></td>
+  </tr>
+  <tr align="justify">
+    <td>联系电话</td>
+    <td><input type="text" size="15"/>
+        <span class="requred_symbol">*</span></td>
+    <td> 传真号码</td>
+    <td><input type="text" size="15"/></td>
+    <td>邮政编码</td>
+    <td><input name="textfield" type="text" size="15"></td>
+    <td>电子邮件</td>
+    <td><input name="text" type="text" size="15"/></td>
+   </tr>
+  <tr align="justify">
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr align="justify">
+    <td>填单人</td>
+    <td><input type="text" size="15"/>
+        <span class="requred_symbol">*</span></td>
+    <td>填单日期</td>
+    <td><input name="tdrq" type="text" size="15" readonly="true"/>
+        <span class="requred_symbol">*</span>
+        <a href="javascript:void(0)" onclick="gfPop.fPopCalendar(document.all.tdrq);return false;">
+        <img name="popcal" align="absmiddle" src="../images/selectDate.gif" width="15" height="12" border="0" alt=""></a>
+	</td>
+    <td>填单时间</td>
+    <td><input type="text" size="15"/></td>
+    <td>状态</td>
+    <td><input name="textfield34" type="text" size="15"></td>
+  </tr>
+  <tr align="justify">
+    <td>提货地点</td>
+    <td><input type="text" size="15"/>
+      <span class="requred_symbol">*</span></td>
+    <td>截止日期</td>
+    <td><input name="jzrq" type="text" size="15" readonly="true">
+      <span class="requred_symbol">*</span>
+      <a href="javascript:void(0)" onclick="gfPop.fPopCalendar(document.all.jzrq);return false;">
+      <img name="popcal" align="absmiddle" src="../images/selectDate.gif" width="15" height="12" border="0" alt=""></a>
+	</td>
+    <td>截止时间</td>
+    <td><input name="textfield" type="text" size="15"></td>
+    <td>保价金额</td>
+    <td><input type="text" size="15"/></td>
+  </tr>
+  <tr align="justify">
+    <td>用车标志</td>
+    <td><input name="radiobutton" type="radio" value="radiobutton" checked>
+  是
+    <input name="radiobutton" type="radio" value="radiobutton">
+  否</td>
+    <td>实提日期</td>
+    <td><input name="strq" type="text" size="15" readonly="true">
+      <a href="javascript:void(0)" onclick="gfPop.fPopCalendar(document.all.strq);return false;">
+      <img name="popcal" align="absmiddle" src="../images/selectDate.gif" width="15" height="12" border="0" alt=""></a>
+	</td>
+    <td>实提时间</td>
+    <td><input name="textfield2" type="text" size="15"></td>
+    <td>录入员</td>
+    <td><input name="textfield3" type="text" size="15"></td>
+  </tr>
+  <tr align="justify">
+    <td>录入日期</td>
+    <td><input name="lrrq" type="text" size="15" readonly="true">
+      <a href="javascript:void(0)" onclick="gfPop.fPopCalendar(document.all.lrrq);return false;">
+      <img name="popcal" align="absmiddle" src="../images/selectDate.gif" width="15" height="12" border="0" alt=""></a>
+	</td>
+    <td>审核员</td>
+    <td><input name="textfield22" type="text" size="15"></td>
+    <td>审核日期</td>
+    <td><input name="shrq" type="text" size="15" readonly="true">
+      <a href="javascript:void(0)" onclick="gfPop.fPopCalendar(document.all.shrq);return false;">
+      <img name="popcal" align="absmiddle" src="../images/selectDate.gif" width="15" height="12" border="0" alt=""></a>
+	</td>
+	<td>&nbsp;</td>
+	<td>&nbsp;</td>
+  </tr>
+  <tr align="justify">
+    <td>备注</td>
+    <td colspan="7"><input name="text" size="100"></td>
+    </tr>
+  <tr align="justify">
+    <td>反馈意见</td>
+    <td colspan="7"><input name="text" size="100"></td>
+  </tr>
+  <tr>
+  	<td class="title2"></td>
+  </tr>
+</table>
+<table width="100%"  border="0" align="center" cellspacing="1" id="detailTable">
+  <tr>
+    <td class="toolbar"> 序号 </td>
+    <td class="toolbar"> 商品编码 </td>
+    <td class="toolbar"> 商品名称 </td>
+    <td class="toolbar"> 应提数量 </td>
+    <td class="toolbar"> 商品体积 </td>
+    <td class="toolbar">商品重量</td>
+    <td class="toolbar">实提数量</td>
+    <td class="toolbar">备注</td>
+    <td class="toolbar">&nbsp;</td>
+  </tr>
+</table>
+<table width="100%"  border="0" align="center" cellspacing="1">
+  <tr>
+    <td class="title2"></td>
+  </tr>
+</table>
+<br>
+<div align="center">
+    <input type="button" id="mx" value="增加明细" onClick="addItem()"/>
+    <input type="submit" id="bc" value="保存"/>
+    <input type="submit" id="ts" value="提审"/>
+    <input type="button" id="dy" value="打印" onClick="window.print()"/>
+    <input name="reset"  id="cz" value="重置" type="reset"/>
+    <input type="button" id="gb" value="关闭" onClick="window.close()"/>
+</div>
+</form>
+<iframe width=174 height=189 name="gToday:normal:agenda.js" id="gToday:normal:agenda.js" src="../common/calendar/ipopeng.htm" scrolling="no" frameborder="0" style="visibility:visible; z-index:999; position:absolute; left:-500px; top:0px;"></iframe>
+</body>
+</html>

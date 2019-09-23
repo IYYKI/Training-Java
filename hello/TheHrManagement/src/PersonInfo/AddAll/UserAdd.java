@@ -1,22 +1,24 @@
 package PersonInfo.AddAll;
 
+import java.io.*;
+import java.net.*;
+import java.awt.event.*;
 import javax.swing.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
-
-public class UserAdd extends JFrame {
+public class UserAdd extends JFrame{
     private JTextField Wno,Wpwd,Wuserclass;
-    private JLabel jno, jpwd,juserclass;
+    private JLabel jno,jpwd,juserclass;
     private JButton Btnupdate,Btnexit;
     public UserAdd(){
         this.setLayout(null);
-        jno = new JLabel("职工号:");
-        jpwd = new JLabel("密码:");
-        juserclass = new JLabel("用户类");
-        Wno = new JTextField();
-        Wuserclass = new JTextField();
-        Btnupdate = new JButton("添加");
-        Btnexit = new JButton("取消");
+
+        jno=new JLabel("职工号:");
+        jpwd=new JLabel("密码:");
+        juserclass=new JLabel("用户类:");
+        Wno=new JTextField();
+        Wpwd=new JTextField();
+        Wuserclass=new JTextField();
+        Btnupdate=new JButton("添加");
+        Btnexit=new JButton("取消");
         jno.setBounds(30,20,60,30);//设置标签大小
         jpwd.setBounds(30,70,60,26);
         juserclass.setBounds(30,120,60,26);
@@ -32,41 +34,43 @@ public class UserAdd extends JFrame {
         this.add(juserclass);
         this.add(Wuserclass);
         this.add(Btnupdate);
-        this.add(Btnexit);
+        this.add( Btnexit);
         this.setSize(250,300);
         this.setTitle("添加新用户");
-        Btnupdate.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
-                Add1 o =  new Add1();
+        Btnupdate.addActionListener(new ActionListener(){
+            public void actionPerformed(ActionEvent e){
                 try{
-                    if (Wno.getText().toString().equals("")){
-                        JOptionPane.showMessageDialog(null,"职工号不能为空!",
-                                "添加",JOptionPane.WARNING_MESSAGE);
-                    }else if (Wpwd.getText().toString().equals("")){
-                        JOptionPane.showMessageDialog(null,"密码不能为空","添加",
-                                JOptionPane.WARNING_MESSAGE);
-                    }else if(Wuserclass.getText().toString().equals("")){
-                        JOptionPane.showMessageDialog(null,"用户类不能为空","添加",
-                                JOptionPane.WARNING_MESSAGE);
-                    }else {
-                        o.tianjia(Wno.getText().toString(),Wpwd.getText().toString(),
-                                Wuserclass.getText().toString());
-                    }
+                    Add1 o=new Add1();
 
-                    }catch (Exception e1){
+                    if(Wno.getText().toString().equals(""))
+                        JOptionPane.showMessageDialog(null,"职工号不能为空","添加",JOptionPane.WARNING_MESSAGE);
+                    else
+                    if(Wpwd.getText().toString().equals(""))
+                        JOptionPane.showMessageDialog(null,"密码不能为空","添加",JOptionPane.WARNING_MESSAGE);
+                    else
+                    if(Wuserclass.getText().toString().equals(""))
+                        JOptionPane.showMessageDialog(null,"用户类不能为空","添加",JOptionPane.WARNING_MESSAGE);
+                    else
+                        o.tianjia(Wno.getText().toString(),Wpwd.getText().toString(),Wuserclass.getText().toString());
+                }catch(Exception e1){
                     e1.printStackTrace();
-                }JOptionPane.showMessageDialog
-                        (null,"添加成功!","添加新用户",JOptionPane.INFORMATION_MESSAGE); }
+                }JOptionPane.showMessageDialog(null,"添加成功!","添加新用户",JOptionPane.INFORMATION_MESSAGE);    }
         });
-        Btnexit.addActionListener(new ActionListener() {
-            @Override
-            public void actionPerformed(ActionEvent e) {
+
+        Btnexit.addActionListener(new ActionListener(){
+            public void actionPerformed(ActionEvent e)
+            {
                 Wno.setText("");
                 Wpwd.setText("");
                 Wuserclass.setText("");
             }
         });
+
         setVisible(true);
     }
+
+    public static void main(String[] args){
+        UserAdd app=new UserAdd();
+    }
+
 }

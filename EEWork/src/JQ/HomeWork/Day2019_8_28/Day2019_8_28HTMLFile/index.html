@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="UTF-8">
+ <title>Insert title here</title>
+ <script type="text/javascript" src="jquery-1.8.1.min.js"></script>
+ <script type="text/javascript" src="index.js"></script>
+</head>
+<body>
+<input type="button" value="新增" id="addBtn" class="btn"></br>
+<table border="1" width="500px">
+ <tr>
+  <th>编号</th>
+  <th>标题</th>
+  <th>摘要</th>
+  <th>作者</th>
+  <th>类别</th>
+  <th>操作</th>
+ </tr>
+</table>
+</br>
+<div class="abc" style="display: none;">
+ 标题：<input type="text" id="title">
+ 摘要：<input type="text" id="remark"></br>
+ 作者：<input type="text" id="author">
+ 类别：<select id="sel">
+ <option ></option>
+ <option >证券</option>
+ <option >搞怪</option>
+ <option >IT</option>
+</select></br>
+ <input type="button" value="保存" onclick="savTr()" class="Btn">&nbsp;
+ <input type="button" value="重置" onclick="reSet()">
+</div>
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Html/Html.iml" filepath="$PROJECT_DIR$/Html/Html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/JavaHomeWork.iml" filepath="$PROJECT_DIR$/Java/JavaHomeWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/JavaSwing.iml" filepath="$PROJECT_DIR$/Java/JavaSwing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java_IO/Java_IO.iml" filepath="$PROJECT_DIR$/Java/Java_IO/Java_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java_Swing/Java_Swing.iml" filepath="$PROJECT_DIR$/Java/Java_Swing/Java_Swing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java_Swing/Java_Swing_Two.iml" filepath="$PROJECT_DIR$/Java/Java_Swing/Java_Swing_Two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyArrayList/MyArrayList.iml" filepath="$PROJECT_DIR$/MyArrayList/MyArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheHrManagement/PersonInfo.iml" filepath="$PROJECT_DIR$/TheHrManagement/PersonInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shopping/Shopping.iml" filepath="$PROJECT_DIR$/Shopping/Shopping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TellRoom/TellRoom.iml" filepath="$PROJECT_DIR$/TellRoom/TellRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheHrManagement/TheHrManagement.iml" filepath="$PROJECT_DIR$/TheHrManagement/TheHrManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Thread/Thread.iml" filepath="$PROJECT_DIR$/Java/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/USER/USER.iml" filepath="$PROJECT_DIR$/Java/USER/USER.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/XML/Works.iml" filepath="$PROJECT_DIR$/Java/XML/Works.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/XML/XML.iml" filepath="$PROJECT_DIR$/Java/XML/XML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello.iml" filepath="$PROJECT_DIR$/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/src.iml" filepath="$PROJECT_DIR$/Java/src.iml" />
+    </modules>
+  </component>
+</project>

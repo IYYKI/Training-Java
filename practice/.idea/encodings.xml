@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/ClassTest/src/Calculator/MyFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ClassTest/src/Calculator/calculator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ClassTest/src/Calculator/myPanel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ClassTest/src/InheritanceAndPolymorphism/Electrical.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ClassTest/src/InheritanceAndPolymorphism/TV.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ClassTest/src/InheritanceAndPolymorphism/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/EightWanShu/Wanshu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/Eleven/SqrtWanshu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/Fifteen_Sequence/Sequence.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/Five_NumberOfMaxAndMini/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/Four_PrimeFactors/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/MothAndYear/MothYear.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/NineTeen/San.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/One_rabbit/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/Six_InputCharacter/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/Sixteen/Palindrome.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/Ten_FourNumber/Combination.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/Three_SuNumber/NumberSu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/TwentyFour_Monkey/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ComprehensivePractice/src/Two_RandomLetters/TaskTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyArrayList/src/MyList/MyLinkedList.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/MyArrayList/src/Stack/MyLinkStackTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POJ/src/dao/EmployeesDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/POJ/src/dao/UserDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POJ/src/listener/HeaderListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POJ/src/listener/LoginListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POJ/src/listener/MyListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POJ/src/model/Staff.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POJ/src/run/Test.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POJ/src/util/DBUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POJ/src/view/LoginView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POJ/src/view/MainView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/POJ/src/view/PlusView.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

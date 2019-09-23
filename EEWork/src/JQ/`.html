@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Insert title here</title>
+    <script type="text/javascript" src="js/jquery-1.6.2.js"></script>
+    <script type="text/javascript" src="js/test.js"></script>
+    <style type="text/css">
+        table, td{
+            font:100% '微软雅黑';
+        }
+        table{width:80%;border-collapse:collapse; margin:0 0 0 100px}
+        th, td{text-align:center;border:1px solid #fff;}
+        th{background:#328aa4}
+        td{background:#e5f1f4;}
+    </style>
+</head>
+<body>
+
+<a href="#" style ="margin:100px" id="add_btn">新增</a>
+<input id="Ktext" type="text"> <a href="#" id="search_btn">  查询</a>
+<a href="#" style ="margin:100px" id="back_btn">返回</a>
+<br/>
+<table id="tb">
+    <tr id="trr">
+        <th style="width:100px">ID</th>
+        <th style="width:100px">Name</th>
+        <th style="width:100px">salary</th>
+        <th style="width:100px">功能</th>
+
+    </tr>
+    <tbody id="hide_tbody">
+
+    <tr style="display:none" id="trr">
+        <td style="width:100px" id="no_id"><input value='' type='text'></td>
+        <td style="width:100px"><input value='' type='text'></td>
+        <td style="width:100px"><input value='' type='text'></td>
+        <td style="width:200px" id="a"><a href="#" id="save_btn">保存</a>
+            <a href="#" id="edit_btn" style="display:none">修改</a>
+            <a href="#" id="del_btn">删除</a></td>
+    </tr>
+
+
+    </tbody>
+    <tbody id="show_tbody">
+    <tr id="trr" >
+        <td style="width:100px" id="no_id">1</td>
+        <td style="width:100px">小王</td>
+        <td style="width:100px">3000</td>
+        <td style="width:200px" id="a"><a href="#" id="save_btn" style="display:none">保存</a>
+            <a href="#" id="edit_btn">修改</a>
+            <a href="#" id="del_btn">删除</a></td>
+    </tr>
+    <tr id="trr">
+        <td style="width:100px" id="no_id">2</td>
+        <td style="width:100px">小李</td>
+        <td style="width:100px">4000</td>
+        <td style="width:200px" id="a"><a href="#" id="save_btn" style="display:none">保存</a>
+            <a href="#" id="edit_btn">修改</a>
+            <a href="#" id="del_btn">删除</a></td>
+    </tr>
+    <tr id="trr">
+        <td style="width:100px" id="no_id">3</td>
+        <td style="width:100px">小张</td>
+        <td style="width:100px">5000</td>
+        <td style="width:200px" id="a"><a href="#" id="save_btn" style="display:none">保存</a>
+            <a href="#" id="edit_btn">修改</a>
+            <a href="#" id="del_btn">删除</a></td>
+    </tr>
+    <tr id="trr">
+        <td style="width:100px" id="no_id">4</td>
+        <td style="width:100px">小赵</td>
+        <td style="width:100px">6000</td>
+        <td style="width:200px" id="a"><a href="#" id="save_btn" style="display:none">保存</a>
+            <a href="#" id="edit_btn">修改</a>
+            <a href="#" id="del_btn">删除</a></td>
+    </tr>
+    </tbody>
+</table>
+
+</body>
+</html>

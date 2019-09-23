@@ -1,0 +1,1519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9445d960-16a9-4633-8207-ac2240d11a99" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../EEWork/src/JQ/HomeWork/Day2019_8_28/Day2019_8_28HTMLFile/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EEWork/src/JQ/HomeWork/Day2019_8_28/Day2019_8_28HTMLFile/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EEWork/src/JQ/HomeWork/Day2019_8_28/Day2019_8_28HTMLFile/jquery-1.8.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/JavaEEWork.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/BUILDING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/NOTICE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/RELEASE-NOTES" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/RUNNING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/bootstrap.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/catalina-tasks.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/catalina.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/catalina.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/ciphers.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/ciphers.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/commons-daemon-native.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/commons-daemon.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/configtest.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/configtest.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/daemon.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/digest.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/digest.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/makebase.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/makebase.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/setclasspath.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/setclasspath.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/shutdown.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/shutdown.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/startup.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/startup.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/tomcat-juli.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/tomcat-native.tar.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/tool-wrapper.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/tool-wrapper.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/version.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/bin/version.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/conf/catalina.policy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/conf/catalina.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/conf/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/conf/jaspic-providers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/conf/jaspic-providers.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/conf/logging.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/conf/server.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/conf/tomcat-users.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/conf/tomcat-users.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/conf/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/RELEASE-NOTES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/asf-logo-wide.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/bg-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/bg-middle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/bg-nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/bg-upper.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/tomcat-power.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/tomcat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/tomcat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/tomcat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/ROOT/tomcat.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/BUILDING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/RELEASE-NOTES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/RUNNING.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/aio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/api/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/build.xml.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/deployment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/installation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/introduction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/processes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/sample/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/sample/docs/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/sample/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/sample/sample.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/sample/src/mypackage/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/sample/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/sample/web/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/sample/web/images/tomcat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/sample/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/source.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/appdev/web.xml.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/apr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/architecture/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/architecture/overview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/architecture/requestProcess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/architecture/requestProcess/authentication-process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/architecture/requestProcess/request-process.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/architecture/startup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/architecture/startup/serverStartup.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/architecture/startup/serverStartup.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/balancer-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/building.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/cdi.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/cgi-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/changelog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/class-loader-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/cluster-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/comments.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/ajp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/automatic-deployment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/cluster-channel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/cluster-deployer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/cluster-interceptor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/cluster-listener.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/cluster-manager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/cluster-membership.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/cluster-receiver.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/cluster-sender.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/cluster-valve.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/cluster.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/context.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/cookie-processor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/credentialhandler.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/engine.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/executor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/globalresources.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/host.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/http.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/http2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/jar-scan-filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/jar-scanner.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/jaspic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/listeners.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/loader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/manager.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/realm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/resources.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/server.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/sessionidgenerator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/systemprops.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/config/valve.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/connectors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/default-servlet.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/deployer-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/developers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/elapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/extras.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/funcspecs/fs-admin-apps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/funcspecs/fs-admin-objects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/funcspecs/fs-admin-opers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/funcspecs/fs-default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/funcspecs/fs-jdbc-realm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/funcspecs/fs-jndi-realm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/funcspecs/fs-memory-realm.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/funcspecs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/funcspecs/mbean-names.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/host-manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/html-host-manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/html-manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/add.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/asf-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/code.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/cors-flowchart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/design.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/docs-stylesheet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/docs.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/fix.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/fonts/OpenSans400.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/fonts/OpenSans400italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/fonts/OpenSans600.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/fonts/OpenSans600italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/fonts/OpenSans700.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/fonts/OpenSans700italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/fonts/fonts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/tomcat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/tomcat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/update.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/images/void.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/introduction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/jasper-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/jdbc-pool.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/jndi-datasource-examples-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/jndi-resources-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/jspapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/logging.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/maven-jars.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/mbeans-descriptors-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/mbeans-descriptors.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/monitoring.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/proxy-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/realm-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/rewrite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/security-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/security-manager-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/servletapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/setup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/ssi-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/ssl-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/tribes/developers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/tribes/faq.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/tribes/interceptors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/tribes/introduction.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/tribes/membership.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/tribes/setup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/tribes/status.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/tribes/transport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/virtual-hosting-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/web-socket-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/websocketapi/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/windows-auth-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/docs/windows-service-howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/CookieExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/CookieExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/HelloWorldExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/HelloWorldExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/LocalStrings.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/LocalStrings_cs.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/LocalStrings_de.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/LocalStrings_es.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/LocalStrings_fr.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/LocalStrings_ja.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/LocalStrings_ko.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/LocalStrings_pt.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/LocalStrings_pt_BR.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/LocalStrings_ru.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/LocalStrings_zh_CN.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/RequestHeaderExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/RequestHeaderExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/RequestInfoExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/RequestInfoExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/RequestParamExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/RequestParamExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/ServletToJsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/ServletToJsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/SessionExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/SessionExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Async0$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Async0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Async0.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Async1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Async1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Async1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Async2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Async2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Async2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Async3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Async3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/AsyncStockContextListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/AsyncStockContextListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/AsyncStockServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/AsyncStockServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Stockticker$Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Stockticker$TickListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Stockticker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/async/Stockticker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/cal/Entries.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/cal/Entries.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/cal/Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/cal/Entry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/cal/JspCalendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/cal/JspCalendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/cal/TableBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/cal/TableBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/checkbox/CheckTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/checkbox/CheckTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/colors/ColorGameBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/colors/ColorGameBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/compressionFilters/CompressionFilterTestServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/compressionFilters/CompressionResponseStream.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/compressionFilters/CompressionServletResponseWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/dates/JspCalendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/dates/JspCalendar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/error/Smart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/error/Smart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/examples/ExampleTagBase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/examples/ExampleTagBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/examples/FooTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/examples/FooTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/examples/FooTagExtraInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/examples/FooTagExtraInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/examples/LogTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/examples/LogTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/examples/ValuesTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/examples/ValuesTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/filters/ExampleFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/filters/ExampleFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/http2/SimpleImagePush.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/http2/SimpleImagePush.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/BookBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/BookBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/FooBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/FooBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/ValuesBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/ValuesBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/el/Functions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/el/Functions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/EchoAttributesTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/FindBookSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/HelloWorldSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/RepeatSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/ShuffleSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/jsp2/examples/simpletag/TileSimpleTag.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/listeners/ContextListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/listeners/ContextListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/listeners/SessionListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/listeners/SessionListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter$CounterListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/nonblocking/ByteCounter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter$NumberWriterListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/nonblocking/NumberWriter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/num/NumberGuessBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/num/NumberGuessBean.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/sessions/DummyCart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/sessions/DummyCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/trailers/ResponseTrailers$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/trailers/ResponseTrailers$TrailerFieldSupplier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/trailers/ResponseTrailers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/trailers/ResponseTrailers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/util/CookieFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/util/CookieFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/util/HTMLFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/util/HTMLFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/validators/DebugValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/validators/DebugValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/ExamplesConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/ExamplesConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/chat/ChatAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawMessage$ParseException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardContextListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardContextListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/DrawboardEndpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$MessageType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/Room$Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/AbstractWebsocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/BinaryWebsocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/CloseWebsocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/drawboard/wsmessages/StringWebsocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation$CompletedFuture.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoAsyncAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerBinary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint$EchoMessageHandlerText.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoEndpoint.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoStreamAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/EchoStreamAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/echo/servers.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/snake/Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/snake/Direction.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/snake/Location$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/snake/Location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/snake/Location.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/snake/Snake.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/snake/Snake.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/snake/SnakeAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/snake/SnakeAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/classes/websocket/snake/SnakeTimer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/jsp/applet/Clock2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/jsp/debug-taglib.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/jsp/example-taglib.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/jsp2/jsp2-example-taglib.tld" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/tags/displayProducts.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/tags/helloWorld.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/tags/panel.tag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/async/async1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/async/async1.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/async/async3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/async/async3.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/async/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/async/index.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/cal/Entries.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/cal/Entry.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/cal/JspCalendar.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/cal/TableBean.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/cal/cal1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/cal/cal1.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/cal/cal2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/cal/cal2.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/cal/calendar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/cal/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/checkbox/CheckTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/checkbox/check.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/checkbox/checkresult.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/checkbox/checkresult.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/checkbox/cresult.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/colors/ColorGameBean.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/colors/clr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/colors/colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/colors/colrs.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/colors/colrs.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/dates/date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/dates/date.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/dates/date.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/error/er.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/error/err.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/error/err.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/error/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/error/errorpge.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/error/errorpge.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/forward/forward.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/forward/forward.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/forward/fwd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/forward/one.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/forward/one.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/forward/two.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/images/code.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/images/execute.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/images/return.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/include/foo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/include/foo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/include/foo.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/include/inc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/include/include.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/include/include.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/Functions.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/ValuesBean.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/ValuesTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/basic-arithmetic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/basic-arithmetic.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/basic-arithmetic.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/basic-comparisons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/basic-comparisons.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/basic-comparisons.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/composite.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/composite.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/composite.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/functions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/functions.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/functions.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/implicit-objects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/implicit-objects.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/el/implicit-objects.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspattribute/FooBean.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspattribute/HelloWorldSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspattribute/ShuffleSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspattribute/TileSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspattribute/jspattribute.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspattribute/jspattribute.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspattribute/jspattribute.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspattribute/shuffle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspattribute/shuffle.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspattribute/shuffle.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspx/basic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspx/basic.jspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspx/basic.jspx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspx/svgexample.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspx/textRotate.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspx/textRotate.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspx/textRotate.jspx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/jspx/textRotate.jspx.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/misc/EchoAttributesTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/misc/coda.jspf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/misc/coda.jspf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/misc/config.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/misc/config.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/misc/config.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/misc/dynamicattrs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/misc/dynamicattrs.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/misc/dynamicattrs.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/misc/prelude.jspf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/misc/prelude.jspf.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/BookBean.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/FindBookSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/Functions.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/HelloWorldSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/RepeatSimpleTag.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/book.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/book.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/book.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/hello.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/repeat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/repeat.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/simpletag/repeat.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/tagfiles/displayProducts.tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/tagfiles/hello.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/tagfiles/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/tagfiles/hello.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/tagfiles/helloWorld.tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/tagfiles/panel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/tagfiles/panel.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/tagfiles/panel.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/tagfiles/panel.tag.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/tagfiles/products.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/tagfiles/products.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsp2/tagfiles/products.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsptoserv/ServletToJsp.java.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsptoserv/hello.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsptoserv/hello.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsptoserv/jsptoservlet.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsptoserv/jsptoservlet.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/jsptoserv/jts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/num/numguess.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/num/numguess.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/num/numguess.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/plugin/applet/Clock2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/plugin/applet/Clock2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/plugin/plugin.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/plugin/plugin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/plugin/plugin.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/security/protected/error.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/security/protected/error.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/security/protected/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/security/protected/index.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/security/protected/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/security/protected/login.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/sessions/DummyCart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/sessions/carts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/sessions/carts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/sessions/carts.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/sessions/crt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/simpletag/foo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/simpletag/foo.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/simpletag/foo.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/snp/snoop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/snp/snoop.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/snp/snoop.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/tagplugin/choose.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/tagplugin/choose.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/tagplugin/choose.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/tagplugin/foreach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/tagplugin/foreach.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/tagplugin/foreach.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/tagplugin/howto.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/tagplugin/if.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/tagplugin/if.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/tagplugin/if.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/tagplugin/notes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/xml/xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/xml/xml.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/jsp/xml/xml.jsp.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/servlets/cookies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/servlets/helloworld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/servlets/images/code.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/servlets/images/execute.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/servlets/images/return.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/servlets/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/servlets/nonblocking/bytecounter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/servlets/reqheaders.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/servlets/reqinfo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/servlets/reqparams.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/servlets/sessions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/websocket/chat.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/websocket/drawboard.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/websocket/echo.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/websocket/index.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/examples/websocket/snake.xhtml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/host-manager/META-INF/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/host-manager/WEB-INF/jsp/401.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/host-manager/WEB-INF/jsp/403.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/host-manager/WEB-INF/jsp/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/host-manager/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/host-manager/images/asf-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/host-manager/images/tomcat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/host-manager/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/host-manager/manager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/META-INF/context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/WEB-INF/jsp/401.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/WEB-INF/jsp/403.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/WEB-INF/jsp/404.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/WEB-INF/jsp/connectorCerts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/WEB-INF/jsp/connectorCiphers.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/WEB-INF/jsp/connectorTrustedCerts.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/WEB-INF/jsp/sessionDetail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/WEB-INF/jsp/sessionsList.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/images/asf-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/images/tomcat.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/status.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/apache-tomcat-9.0.24/webapps/manager/xform.xsl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/annotations-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/apache-tomcat-9.0.24 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/catalina-ant.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/catalina-ha.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/catalina-storeconfig.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/catalina-tribes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/catalina.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/ecj-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/el-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/jasper-el.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/jasper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/jaspic-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/jsp-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/annotations-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/catalina-ant.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/catalina-ha.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/catalina-storeconfig.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/catalina-tribes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/catalina.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/ecj-4.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/el-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/jasper-el.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/jasper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/jaspic-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/jsp-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/mysql-connector-java-5.1.15-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/servlet-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-coyote.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-dbcp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-i18n-cs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-i18n-de.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-i18n-es.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-i18n-fr.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-i18n-ja.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-i18n-ko.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-i18n-pt-BR.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-i18n-ru.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-i18n-zh-CN.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-jdbc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-jni.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-util-scan.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-util.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/tomcat-websocket.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/lib/websocket-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/servlet-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-coyote.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-dbcp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-i18n-cs.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-i18n-de.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-i18n-es.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-i18n-fr.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-i18n-ja.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-i18n-ko.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-i18n-pt-BR.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-i18n-ru.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-i18n-zh-CN.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-jdbc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-jni.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-util-scan.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-util.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/tomcat-websocket.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/lib/websocket-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/artifacts/JavaEEWork_war_exploded/WEB-INF/classes/Day_8_29WorkTwo/DatabaseAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/artifacts/JavaEEWork_war_exploded/WEB-INF/classes/MyServlet/MyServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/artifacts/JavaEEWork_war_exploded/WEB-INF/classes/MyServlet/SecondServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/artifacts/JavaEEWork_war_exploded/WEB-INF/classes/MyServlet/ThirdServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/artifacts/JavaEEWork_war_exploded/WEB-INF/classes/RegisteServlet/RegisteServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/artifacts/JavaEEWork_war_exploded/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/artifacts/JavaEEWork_war_exploded/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/artifacts/JavaEEWork_war_exploded/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/production/JavaEEWork/Day_8_29WorkTwo/DatabaseAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/production/JavaEEWork/MyServlet/MyServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/production/JavaEEWork/MyServlet/SecondServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/production/JavaEEWork/MyServlet/ThirdServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/out/production/JavaEEWork/RegisteServlet/RegisteServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/src/Day_8_29WorkTwo/DatabaseAccess.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/src/MyServlet/MyServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/src/MyServlet/SecondServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/src/MyServlet/ThirdServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/src/RegisteServlet/RegisteServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/web/WEB-INF/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaEEWork/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MySQL/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/Java/Java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/JavaHomeWork.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/JavaSwing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/Java_IO.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/abc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_16/HomeWork/WorkTwo/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_16/HomeWork/WorkTwo/StudentDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_16/HomeWork/run/DOM4JTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_16/HomeWork/run/data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_16/HomeWork/utl/DBUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_16/Works/DBUtil/DBUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_16/Works/MyDataBase/Database.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_16/Works/database.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_16/Works/run/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_16/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_5/WorkFour/BeFor_TestFile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_5/WorkFour/LookFile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_5/WorkFour/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_5/WorkOne/WorkOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_5/WorkOne/file" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_5/WorkThree/WorkThree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_5/WorkThree/a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/Day_8_5/WorkTwo/WorkTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/mysql-connector-java-8.0.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_IO/src/src/FileTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/Java_Swing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/Java_Swing_Two.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/src/Calculator/calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/src/Calculator/myFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/src/Calculator/myPanel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/src/MySwing/BorderLayoutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/src/MySwing/GLayoutTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/src/MySwing/JframeDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/src/MySwing/LayoutDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/src/MySwing/LoginFrame.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/src/MySwing/NullLayoutDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/src/MySwing/SwingLoginExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Java_Swing/src/WotkThree/Listenet/MyListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/Thread.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/FirstThread/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/HomeWork/HW/HomeWork_StudentRun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/HomeWork/HW/RunnerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/HomeWork/HW2/Lipstick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/HomeWork/HW2/Makeup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/HomeWork/HW2/Mirror.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/HomeWork/HW2/TestMakeup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/HomeWork/HW3/cant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/HomeWork/HW4/GuessNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/HomeWork/HW4/sd.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/two/Station.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/two/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/Thread/src/two/TickThread.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/USER/USER.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/USER/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/USER/mysql-connector-java-5.1.15-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/USER/src/Dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/USER/src/Run/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/USER/src/USER/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/USER/src/Util/DBUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/Works.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/XML.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/mysql-connector-java-8.0.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/DMJ4/DOM4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/DMJ4/DOM4Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/DMJ4/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/DMJ4/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/DMJ4/pet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/DMJ4/pet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/Pet/Dog/Pet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/Pet/Model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/Pet/PetJDBC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/Pet/PetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/Pet/util/JDBCUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/Pet/util/PetUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/XML/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/XML/src/XML/xml.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day10_7_24周四练习/LearningException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day10_7_24周四练习/Studen.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day10_7_25周四/数组十位/ArrayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day10_7_25周四/正数/ExceptionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day10_7_25周四/键盘读数/EmptyStringException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day10_7_25周四/键盘读数/IncludeNumberException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day10_7_25周四/键盘读数/MyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day10_7_25周四/键盘读数/MyTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day15_7_30_Tuesday/Fruit/Fruit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day15_7_30_Tuesday/Fruit/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day15_7_30_Tuesday/Outterbackpack/Outter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day15_7_30_Tuesday/Outterbackpack/OutterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day15_7_30_Tuesday/WarningUser/WarnsTheUser.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day15_7_30_Tuesday/child/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day15_7_30_Tuesday/child/ChildTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day15_7_30_Tuesday/ic_launcher/R.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day15_7_30_Tuesday/ic_launcher/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday/Shen/City.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday/Shen/CityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday/Stone/Stone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday/Stone/StoneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday/StoneTwo/StoneTwoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday/Student/ArrayListForStudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday/Student/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday/Student/Subjects.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday/Student/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday/比较器/Comparators.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday/比较器/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday/比较器/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday_Practice/PracticeOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day16_7_31_Wednesday_Practice/TreeSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day1_7_12周五/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day1_7_12周五/HomeWorkforday1/HomeWork01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day1_7_12周五/HomeWorkforday1/HomeWork02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day1_7_12周五/HomeWorkforday1/HomeWork03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day1_7_12周五/HomeWorkforday1/HomeWork04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day1_7_12周五/HomeWorkforday1/HomeWork05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day1_7_12周五/HomeWorkforday1/HomeWork06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day1_7_12周五/HomeWorkforday1/HomeWork07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day2_7_15周一/Homework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day2_7_15周一/Homework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day2_7_15周一/Homework3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day2_7_15周一/Homework4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day2_7_15周一/Homework5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day2_7_15周一/Homework6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day3_7_16周二/Str.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day3_7_16周二/homework1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day3_7_16周二/homework2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day3_7_16周二/homework3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day3_7_16周二/homework4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day4_7_17周三/圆/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day4_7_17周三/圆/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day4_7_17周三/汽车/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day4_7_17周三/汽车/CarTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day4_7_17周三/男孩女孩/Boy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day4_7_17周三/男孩女孩/BoyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day4_7_17周三/邮箱/Email.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day4_7_17周三/邮箱/EmailTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day4_7_17周三/金钱存储/Money.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day4_7_17周三/金钱存储/Moneytext.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day4_7_17周三_练习/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day4_7_17周三_练习/TestCat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day5_7_18周四/圆/Round.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day5_7_18周四/圆/RoundTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day5_7_18周四/学生/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day5_7_18周四/学生/StudentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day5_7_18周四/步长/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day5_7_18周四/步长/PrinterTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day5_7_18周四/用户/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day5_7_18周四/用户/UserTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day5_7_18周四/矩形/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day5_7_18周四/矩形/RectangleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day5_7_18周四_练习/Text.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day5_7_18周四_练习/TextOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五/交换/Change.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五/交换/ChangeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五/电脑店/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五/电脑店/ComputerShopTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五/电脑店/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五/电脑店/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五/练习String方法/String类的常用方法" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五/练习String方法/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五/钱包/Purse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五/钱包/Swap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五/钱包/WalletTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五练习/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五练习/Bookcase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day6_7_19周五练习/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23_周二练习/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23_周二练习/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23_周二练习/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/ABE/A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/ABE/B.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/ABE/E.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/两个姑娘的安尼莫/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/两个姑娘的安尼莫/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/两个姑娘的安尼莫/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/两个姑娘的安尼莫/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/两个姑娘的安尼莫/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/两个姑娘的安尼莫/TwoGirl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/年月日/DateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/年月日/MyDate.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/年月日/MyDate2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/年月日/MyDate3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/猴子和人/E.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/猴子和人/Monkey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/猴子和人/People.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/电器共通性/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/电器共通性/Tv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/电器共通性/appliances.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day8_7_23周二/电器共通性/phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/二维几何体/GeometricObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/二维几何体/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/二维几何体/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/学生科目及成绩/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/学生科目及成绩/SubjectResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/学生科目及成绩/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/学生科目及成绩/student" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/年销售/AnnualSales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/年销售/ComputeTotalSales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/年销售/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/年销售/Mobile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/年销售/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/年销售/Television.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/接口Area/Area.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/接口Area/MyCircle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/接口Area/MyRectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三/接口Area/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三练习/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三练习/LaoMuJi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/Day9_7_24周三练习/LaoMuJiTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/dom4j-1.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/homework/mysql-connector-java-8.0.17.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/src/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/src/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/Java/src/MyClient3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/PersonInfo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/TheHrManagement/PersonInfo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/mysql-connector-java-5.1.15-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/AddAll/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/AddAll/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/AddAll/Add1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/AddAll/Add1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/AddAll/UserAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/AddAll/UserAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/AddAll/WorkerAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/AddAll/WorkerAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/DeleteAll/WorkerDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/DeleteAll/WorkerDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/Login/LoginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/Login/LoginFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/MenuFrame/MenuFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/MenuFrame/MenuFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/SubmitAll/Submit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/SubmitAll/Submit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/SubmitAll/Submit1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/SubmitAll/Submit1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/Update_Select/WorkerSelect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/Update_Select/WorkerSelect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/Update_Select/WorkerUpdate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/TheHrManagement/src/PersonInfo/Update_Select/WorkerUpdate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../hello/hello.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/BYC/Test1_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_24周四练习/LearningException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_24周四练习/Studen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_25周四/数组十位/ArrayTest$FallException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_25周四/数组十位/ArrayTest$NotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_25周四/数组十位/ArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_25周四/正数/ExceptionTest$InvalidInputException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_25周四/正数/ExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_25周四/键盘读数/EmptyStringException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_25周四/键盘读数/IncludeNumberException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_25周四/键盘读数/MyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_25周四/键盘读数/MyTest2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_25周四/键盘读数/MyTest2$EmptyStringException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_25周四/键盘读数/MyTest2$IncludeNumberException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day10_7_25周四/键盘读数/MyTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day15_7_30_Tuesday/Fruit/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day15_7_30_Tuesday/Fruit/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day15_7_30_Tuesday/Outterbackpack/Outter$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day15_7_30_Tuesday/Outterbackpack/Outter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day15_7_30_Tuesday/Outterbackpack/OutterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day15_7_30_Tuesday/WarningUser/WarnsTheUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day15_7_30_Tuesday/child/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day15_7_30_Tuesday/child/ChildTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day15_7_30_Tuesday/ic_launcher/R$Drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day15_7_30_Tuesday/ic_launcher/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day15_7_30_Tuesday/ic_launcher/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/Shen/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/Shen/CityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/Stone/Stone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/Stone/StoneTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/StoneTwo/StoneTwoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/Student/ArrayListForStudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/Student/Student$MyComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/Student/Student$Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/Student/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/Student/Subjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/Student/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/比较器/Comparators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/比较器/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday/比较器/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday_Practice/PracticeOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day16_7_31_Wednesday_Practice/TreeSetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day1_7_12周五/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day1_7_12周五/HomeWorkforday1/HomeWork01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day1_7_12周五/HomeWorkforday1/HomeWork02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day1_7_12周五/HomeWorkforday1/HomeWork03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day1_7_12周五/HomeWorkforday1/HomeWork04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day1_7_12周五/HomeWorkforday1/HomeWork05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day1_7_12周五/HomeWorkforday1/HomeWork06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day1_7_12周五/HomeWorkforday1/HomeWork07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day2_7_15周一/Homework1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day2_7_15周一/Homework2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day2_7_15周一/Homework3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day2_7_15周一/Homework4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day2_7_15周一/Homework5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day2_7_15周一/Homework6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day3_7_16周二/Str.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day3_7_16周二/homework1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day3_7_16周二/homework2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day3_7_16周二/homework3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day3_7_16周二/homework4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day4_7_17周三/圆/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day4_7_17周三/圆/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day4_7_17周三/汽车/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day4_7_17周三/汽车/CarTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day4_7_17周三/男孩女孩/Boy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day4_7_17周三/男孩女孩/BoyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day4_7_17周三/邮箱/Email.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day4_7_17周三/邮箱/EmailTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day4_7_17周三/金钱存储/Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day4_7_17周三/金钱存储/Moneytext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day4_7_17周三_练习/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day4_7_17周三_练习/TestCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day5_7_18周四/圆/Round.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day5_7_18周四/圆/RoundTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day5_7_18周四/学生/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day5_7_18周四/学生/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day5_7_18周四/步长/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day5_7_18周四/步长/PrinterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day5_7_18周四/用户/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day5_7_18周四/用户/UserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day5_7_18周四/矩形/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day5_7_18周四/矩形/RectangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day5_7_18周四_练习/Text.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day5_7_18周四_练习/TextOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day6_7_19周五/交换/Change.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day6_7_19周五/交换/ChangeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day6_7_19周五/电脑店/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day6_7_19周五/电脑店/ComputerShopTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day6_7_19周五/电脑店/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day6_7_19周五/练习String方法/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day6_7_19周五/钱包/Purse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day6_7_19周五/钱包/Swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day6_7_19周五/钱包/WalletTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day6_7_19周五练习/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day6_7_19周五练习/Bookcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day6_7_19周五练习/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23_周二练习/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23_周二练习/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23_周二练习/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/ABE/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/ABE/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/ABE/E.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/两个姑娘的安尼莫/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/两个姑娘的安尼莫/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/两个姑娘的安尼莫/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/两个姑娘的安尼莫/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/两个姑娘的安尼莫/TwoGirl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/年月日/DateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/年月日/MyDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/年月日/MyDate2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/年月日/MyDate3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/猴子和人/E.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/猴子和人/Monkey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/猴子和人/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/电器共通性/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/电器共通性/Tv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/电器共通性/appliances.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day8_7_23周二/电器共通性/phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/二维几何体/GeometricObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/二维几何体/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/二维几何体/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/学生科目及成绩/Student$Courses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/学生科目及成绩/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/学生科目及成绩/SubjectResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/学生科目及成绩/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/年销售/AnnualSales.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/年销售/ComputeTotalSales.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/年销售/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/年销售/Mobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/年销售/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/年销售/Television.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/接口Area/Area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/接口Area/MyCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/接口Area/MyRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三/接口Area/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三练习/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三练习/LaoMuJi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/Day9_7_24周三练习/LaoMuJiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java/text.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaHomeWork/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaHomeWork/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaHomeWork/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaHomeWork/MsgRece.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaHomeWork/MsgSend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaHomeWork/MyClient3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_24周四练习/LearningException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_24周四练习/Studen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_25周四/数组十位/ArrayTest$FallException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_25周四/数组十位/ArrayTest$NotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_25周四/数组十位/ArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_25周四/正数/ExceptionTest$InvalidInputException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_25周四/正数/ExceptionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_25周四/键盘读数/EmptyStringException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_25周四/键盘读数/IncludeNumberException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_25周四/键盘读数/MyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_25周四/键盘读数/MyTest2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_25周四/键盘读数/MyTest2$EmptyStringException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_25周四/键盘读数/MyTest2$IncludeNumberException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day10_7_25周四/键盘读数/MyTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day15_7_30_Tuesday/Fruit/Fruit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day15_7_30_Tuesday/Fruit/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day15_7_30_Tuesday/Outterbackpack/Outter$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day15_7_30_Tuesday/Outterbackpack/Outter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day15_7_30_Tuesday/Outterbackpack/OutterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day15_7_30_Tuesday/WarningUser/WarnsTheUser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day15_7_30_Tuesday/child/Child.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day15_7_30_Tuesday/child/ChildTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day15_7_30_Tuesday/ic_launcher/R$Drawable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day15_7_30_Tuesday/ic_launcher/R.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day15_7_30_Tuesday/ic_launcher/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/Shen/City.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/Shen/CityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/Stone/Stone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/Stone/StoneTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/StoneTwo/StoneTwoTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/Student/ArrayListForStudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/Student/Student$MyComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/Student/Student$Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/Student/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/Student/Subjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/Student/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/比较器/Comparators.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/比较器/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday/比较器/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday_Practice/PracticeOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day16_7_31_Wednesday_Practice/TreeSetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day1_7_12周五/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day1_7_12周五/HomeWorkforday1/HomeWork01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day1_7_12周五/HomeWorkforday1/HomeWork02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day1_7_12周五/HomeWorkforday1/HomeWork03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day1_7_12周五/HomeWorkforday1/HomeWork04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day1_7_12周五/HomeWorkforday1/HomeWork05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day1_7_12周五/HomeWorkforday1/HomeWork06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day1_7_12周五/HomeWorkforday1/HomeWork07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day2_7_15周一/Homework1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day2_7_15周一/Homework2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day2_7_15周一/Homework3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day2_7_15周一/Homework4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day2_7_15周一/Homework5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day2_7_15周一/Homework6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day3_7_16周二/Str.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day3_7_16周二/homework1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day3_7_16周二/homework2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day3_7_16周二/homework3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day3_7_16周二/homework4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day4_7_17周三/圆/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day4_7_17周三/圆/CircleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day4_7_17周三/汽车/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day4_7_17周三/汽车/CarTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day4_7_17周三/男孩女孩/Boy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day4_7_17周三/男孩女孩/BoyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day4_7_17周三/邮箱/Email.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day4_7_17周三/邮箱/EmailTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day4_7_17周三/金钱存储/Money.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day4_7_17周三/金钱存储/Moneytext.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day4_7_17周三_练习/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day4_7_17周三_练习/TestCat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day5_7_18周四/圆/Round.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day5_7_18周四/圆/RoundTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day5_7_18周四/学生/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day5_7_18周四/学生/StudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day5_7_18周四/步长/Printer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day5_7_18周四/步长/PrinterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day5_7_18周四/用户/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day5_7_18周四/用户/UserTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day5_7_18周四/矩形/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day5_7_18周四/矩形/RectangleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day5_7_18周四_练习/Text.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day5_7_18周四_练习/TextOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day6_7_19周五/交换/Change.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day6_7_19周五/交换/ChangeTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day6_7_19周五/电脑店/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day6_7_19周五/电脑店/ComputerShopTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day6_7_19周五/电脑店/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day6_7_19周五/练习String方法/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day6_7_19周五/钱包/Purse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day6_7_19周五/钱包/Swap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day6_7_19周五/钱包/WalletTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day6_7_19周五练习/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day6_7_19周五练习/Bookcase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day6_7_19周五练习/Library.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23_周二练习/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23_周二练习/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23_周二练习/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/ABE/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/ABE/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/ABE/E.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/两个姑娘的安尼莫/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/两个姑娘的安尼莫/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/两个姑娘的安尼莫/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/两个姑娘的安尼莫/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/两个姑娘的安尼莫/TwoGirl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/年月日/DateTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/年月日/MyDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/年月日/MyDate2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/年月日/MyDate3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/猴子和人/E.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/猴子和人/Monkey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/猴子和人/People.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/电器共通性/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/电器共通性/Tv.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/电器共通性/appliances.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day8_7_23周二/电器共通性/phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/二维几何体/GeometricObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/二维几何体/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/二维几何体/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/学生科目及成绩/Student$Courses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/学生科目及成绩/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/学生科目及成绩/SubjectResult.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/学生科目及成绩/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/年销售/AnnualSales.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/年销售/ComputeTotalSales.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/年销售/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/年销售/Mobile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/年销售/Shop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/年销售/Television.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/接口Area/Area.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/接口Area/MyCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/接口Area/MyRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三/接口Area/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三练习/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三练习/LaoMuJi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/Day9_7_24周三练习/LaoMuJiTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/JavaSwing/text.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_16/HomeWork/WorkTwo/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_16/HomeWork/WorkTwo/StudentDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_16/HomeWork/run/DOM4JTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_16/HomeWork/utl/DBUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_16/Works/DBUtil/DBUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_16/Works/MyDataBase/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_16/Works/run/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_5/WorkFour/BeFor_TestFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_5/WorkFour/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_5/WorkOne/WorkOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_5/WorkThree/WorkThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_5/WorkTwo/Myfilte.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/Day_8_5/WorkTwo/WorkTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_IO/src/FileTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/Calculator/calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/Calculator/myFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/Calculator/myPanel$commandAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/Calculator/myPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/Java_Swing_Two/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/MySwing/BorderLayoutTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/MySwing/GLayoutTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/MySwing/JframeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/MySwing/LayoutDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/MySwing/LayoutDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/MySwing/LoginFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/MySwing/NullLayoutDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/MySwing/SwingLoginExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/OnTheClassWorks/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/TellRoom/TellThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/Change.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/MyListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/Test01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame$receive.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame$receiveFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame$send.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame$sendFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/WotkThree/myFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/cient/CientUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/cient/CientUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/cient/ReceiveThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/cient/SendUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/server/SendAllThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Java_Swing/server/TurnSendThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/FirstThread/Mysthead2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/FirstThread/Mythread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/FirstThread/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/HomeWork/HW/HomeWork_StudentRun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/HomeWork/HW/RunnerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/HomeWork/HW2/Lipstick.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/HomeWork/HW2/Makeup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/HomeWork/HW2/Mirror.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/HomeWork/HW2/TestMakeup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/HomeWork/HW3/cant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/HomeWork/HW4/GuessNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/HomeWork/HW4/Number.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/HomeWork/HW4/RandomNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/HomeWork/HW4/sd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/two/Station.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/two/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Thread/two/TickThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/USER/Dao/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/USER/Run/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/USER/USER/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/USER/Util/DBUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Works/DMJ4/DOM4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Works/DMJ4/DOM4Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Works/DMJ4/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Works/Pet/Dog/Pet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Works/Pet/Model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Works/Pet/PetJDBC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Works/Pet/PetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Works/Pet/util/JDBCUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Works/Pet/util/PetUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Works/XML/Book.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/Works/XML/xml.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello/out/production/hello/Num.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/ClassTest/SetTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../practice/out/production/ClassTest/Student.class" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1549448869">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/UserDao.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="37" />
+    <option name="width" value="1440" />
+    <option name="height" value="798" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ListQuerySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ListQuerySystem" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ListQuerySystem" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ListQuerySystem" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568366445671" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9445d960-16a9-4633-8207-ac2240d11a99" name="Default Changelist" comment="" />
+      <created>1568366347730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568366347730</updated>
+      <workItem from="1568366350591" duration="99000" />
+      <workItem from="1568790816768" duration="4000" />
+      <workItem from="1568790824323" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="105000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="37" width="1440" height="798" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/DBUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
